@@ -1,0 +1,10 @@
+#!/bin/sh
+'''exec' "/home/leo/prj/usp/usp_doutorado/2025_02_SIN5008_Estatística Computacional/trab02_mcmc_amostrador_de_gibbs/venv/bin/python3" "$0" "$@"
+' '''
+# -*- coding: utf-8 -*-
+import re
+import sys
+from fontTools.ttx import main
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(main())
