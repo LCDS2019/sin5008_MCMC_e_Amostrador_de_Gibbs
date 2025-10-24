@@ -8,10 +8,11 @@ O objetivo deste projeto é explorar o uso de **técnicas de amostragem aleatór
 Por meio de experimentos computacionais, é possível compreender como esses métodos convergem e são aplicados na prática em problemas estatísticos e de modelagem.
 
 ## 📚 Conteúdo
-
-- **Cadeias de Markov (MCMC)**
-- **Método de Monte Carlo (MC)**
-- **Amostrador de Gibbs**
-
-
-
+- **MC - Markov Chain**
+- **MC - Monte Carlo Method**
+- **MCMC - Markov Chain Monte Carlo**
+- **Algoritmos**
+   * Método de Metropolis
+   * Amostrador de Gibbs
+   * Hamiltonian Monte Carlo (HMC)
+   * Curiosidades
