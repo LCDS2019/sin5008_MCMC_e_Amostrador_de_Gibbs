@@ -1,0 +1,5 @@
+Correlação (rho): 0.9
+Iterações totais: 4000
+Semente RNG: 123
+ESS aproximado X: 485
+ESS aproximado Y: 487

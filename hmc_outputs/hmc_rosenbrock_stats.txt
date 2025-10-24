@@ -1,0 +1,8 @@
+Iterações: 3000
+Leapfrog: eps=0.02, L=25
+Massa: 1.0
+Taxa de aceitação (aprox.): 0.979326
+Delta H médio (|ΔH|): 3.435522e-02
+ESS aproximado X: 15
+ESS aproximado Y: 13
+Semente: 123

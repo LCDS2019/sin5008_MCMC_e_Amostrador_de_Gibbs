@@ -1,0 +1,5 @@
+Taxa de aceitação (aprox.): 0.661384
+ESS aproximado: 37
+Sigma da proposta: 1.0
+Iterações totais: 1200
+Semente RNG: 42
