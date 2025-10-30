@@ -15,4 +15,3 @@ Por meio de experimentos computacionais, é possível compreender como esses mé
    * Método de Metropolis
    * Amostrador de Gibbs
    * Hamiltonian Monte Carlo (HMC)
-   * Curiosidades
