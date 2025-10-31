@@ -19,7 +19,7 @@ print(80 * '=')
 # -------------------------------------------------
 # Parâmetros
 # -------------------------------------------------
-N_STEPS = 1200         # total de iterações
+N_STEPS = 2000         # total de iterações
 STEP_ANIM = 3          # passo entre frames (p/ reduzir tamanho do GIF)
 PROPOSAL_SIGMA = 1.0   # desvio da proposta RW: x' ~ N(x, sigma^2)
 X0 = 0.0               # estado inicial
